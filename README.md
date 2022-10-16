@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Souradip Adhikari</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=souradipadhikari03&label=Profile%20views&color=0e75b6&style=flat" alt="souradipadhikari03" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SouradipAdhikari03&label=Profile%20views&color=0e75b6&style=flat" alt="souradipadhikari03" /> </p>
 
 - 🌱 I’m currently learning **MERN**
 
