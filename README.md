@@ -29,14 +29,14 @@
 ## GitHub Stats
 <table>
   <tr>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=souradipadhikari03&show_icons=true&locale=en&layout=compact" alt="souradipadhikari03" /></p>
-    </tr>
-  <tr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souradipadhikari03&show_icons=true&locale=en" alt="souradipadhikari03" /></p>
  </tr>
    <tr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souradipadhikari03&" alt="souradipadhikari03" /></p>
   </tr>
+  <tr>
+  <p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=souradipadhikari03&show_icons=true&locale=en&layout=compact" alt="souradipadhikari03" /></p>
+    </tr>
 </table>
  
 ## Contribution Graph 
