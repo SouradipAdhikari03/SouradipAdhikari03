@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souradipadhikari03&label=Profile%20views&color=0e75b6&style=flat" alt="souradipadhikari03" /> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Java BackEnd**
 
 - 👨‍💻 All of my projects are available at [https://souradipadhikari.netlify.app/](https://souradipadhikari.netlify.app/)
 
